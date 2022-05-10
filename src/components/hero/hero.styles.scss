@@ -1,0 +1,12 @@
+.hero {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	height: 100vh;
+	padding: 1rem;
+}
+
+.hero-text-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}

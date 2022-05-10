@@ -2,29 +2,29 @@
 	{
 		"id": 1,
 		"name": "Greener",
-		"description": "",
+		"description": "Making environmental choices easier.",
 		"tags": ["React Native", "TypeScript", "MySQL"],
-		"image-url": ""
+		"imageUrl": ""
 	},
 	{
 		"id": 2,
 		"name": "Tabeyou",
-		"description": "",
+		"description": "A recipe book, meal planner, and grocery list generator to help promote healthier eating and manage food budgeting",
 		"tags": ["React", "TypeScript", "Firebase"],
-		"image-url": ""
+		"imageUrl": "../../assets/tabeyou.svg"
 	},
 	{
 		"id": 3,
 		"name": "Rental Hunter",
-		"description": "",
+		"description": "A search result aggregator for rental websites to ease the stressfull process of searching for a new home",
 		"tags": ["React", "TypeScript", "Selenium", "Python"],
-		"image-url": ""
+		"imageUrl": ""
 	},
 	{
 		"id": 5,
 		"name": "Tic Tac Toe",
-		"description": "",
+		"description": "A simple practice project, but I was happy with the design.",
 		"tags": ["JavaScript"],
-		"image-url": ""
+		"imageUrl": ""
 	}
 ]

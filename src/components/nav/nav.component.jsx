@@ -4,10 +4,10 @@ import '../nav/nav.styles.scss';
 const Nav = () => {
 	return (
 		<nav className='nav'>
-			<NavLink section='#hero' label='Home'></NavLink>
-			<NavLink section='#portfolio' label='Portfolio'></NavLink>
-			<NavLink section='#about' label='About'></NavLink>
-			<NavLink section='#contact' label='Contact'></NavLink>
+			<NavLink section='#hero' label='HOME'></NavLink>
+			<NavLink section='#projects' label='PROJECTS'></NavLink>
+			<NavLink section='#about' label='ABOUT'></NavLink>
+			<NavLink section='#contact' label='CONTACT'></NavLink>
 		</nav>
 	);
 };

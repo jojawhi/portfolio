@@ -1,8 +1,14 @@
-import Section from '../section/section.component';
 import '../hero/hero.styles.scss';
 
 const Hero = () => {
-	return <Section className='hero' heading='Josh White' id='hero'></Section>;
+	return (
+		<section className='hero' id='hero'>
+			<div className='hero-text-container'>
+				<h1>Josh White</h1>
+				<p>Riker ipsum</p>
+			</div>
+		</section>
+	);
 };
 
 export default Hero;
